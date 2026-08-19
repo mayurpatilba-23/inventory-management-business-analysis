@@ -1,0 +1,1 @@
+Power BI implementation containing the inventory management dashboard, data model, DAX measures, and inventory risk analysis.
