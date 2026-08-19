@@ -1,1 +1,0 @@
-Excel-based inventory analysis including data cleaning, KPI calculations, demand analysis, reorder analysis, and inventory performance metrics.
