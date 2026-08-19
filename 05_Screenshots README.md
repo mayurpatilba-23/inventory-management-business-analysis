@@ -1,1 +1,0 @@
-Visual previews of the Power BI dashboard and key project outputs.
