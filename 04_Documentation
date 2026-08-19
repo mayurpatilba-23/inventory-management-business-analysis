@@ -1,1 +1,0 @@
-Final project documentation summarizing the business problem, analysis, KPIs, findings, recommendations, and project outcome.
