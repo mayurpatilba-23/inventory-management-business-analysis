@@ -153,7 +153,9 @@ The Power BI dashboard provides management with:
 
 Dashboard Preview
 
-Add the dashboard screenshot here.
+## Dashboard Preview
+
+![Inventory Management Dashboard](05_Screenshots/Inventory_Dashboard.png)
 
 ---
 
